@@ -58,7 +58,7 @@
                     <!-- Logo -->
                     <div class="header-logo">
                         <a class="logo" href="#">
-                            <img src="{{ asset('image/logo.png') }}" alt="">
+                            <img src="{{ asset('image\Logomid.png') }}" alt="">
                         </a>
                     </div>
                     <!-- /Logo -->
@@ -511,7 +511,7 @@
                         <img src="{{ asset('frontend/img/banner01.jpg') }}" alt="">
                         <div class="banner-caption text-center">
                             <h1>Bags sale</h1>
-                            <h3 class="white-color font-weak">Up to 50% Discount</h3>
+                            <h3 class="white-color font-weak">DISKON 50%</h3>
                             <button class="primary-btn">Shop Now</button>
                         </div>
                     </div>
@@ -531,8 +531,8 @@
                     <div class="banner banner-1">
                         <img src="{{ asset('frontend/img/banner03.jpg') }}" alt="">
                         <div class="banner-caption">
-                            <h1 class="white-color">New Product <span>Collection</span></h1>
-                            <button class="primary-btn">Shop Now</button>
+                            <h1 class="white-color">150 <span>X 150</span></h1>
+                            <button class="primary-btn">300</button>
                         </div>
                     </div>
                     <!-- /banner -->
